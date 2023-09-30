@@ -1,0 +1,152 @@
+.page-wrapper {
+    width: 60%;
+    font-family: 'Lato', sans-serif;
+    text-transform: capitalize;
+    margin-left: 15em;
+    margin-right: 15em;
+}
+.intro h1{
+    font-size: 50px;
+    color:white;
+    text-align: center;
+    width: 100%;
+    border-bottom: 4px solid #66AFFF;
+    background-color: #66AFFF;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 10px;
+}
+.intro h2{
+    text-align: center;
+    width: 300px;
+    font-size: 20px;
+    color: #FF7375;
+    border-bottom: 4px solid  #FF7375;
+    padding-left: 300px;
+    margin-bottom: lef;
+    
+
+}
+.summary{
+    height: 200px;
+    width: 105%;
+    background-image: url(fondo\,\ flores\ zen\ garden\ .png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.summary p{
+text-align: left;
+font-family: 'Lato', sans-serif;
+width: 400px;
+padding-left: 200px;
+
+}
+.preamble h3{
+text-align: left;
+    width: 300px;
+    font-size: 20px;
+    color: #B33E40;
+    border-bottom: 4px solid  #B33E40;
+    padding: 5px;
+    display: inline-block;
+}
+.preamble p{
+    font-family: 'Lato', sans-serif;
+    text-align: justify;
+    width: 940px;
+}
+.explanation {
+    text-align: center;
+background-color: #478AB3;
+padding: 8px;
+width: 103%;
+color: white;
+}
+.explanation h3{
+    border-bottom: 3px solid white;
+    display: inline-block;
+}
+.explanation p{
+    text-align: left;
+    width: 500px;
+    margin-left: 200px;
+}
+.participation{
+    text-align: left;
+background-color: #E9F0FA;
+padding: 8px;
+width: 103%;
+}
+.participation h3{
+    border-bottom: 3px solid black;
+    display: inline-block;
+    margin-left: 100px;
+    float:left;
+    padding: .5em 1em;
+    margin: 8em 6em;
+}
+.participation p{
+    width: 500px;
+    margin-left: 400px;
+}
+.benefits img{
+    background-image: url(Fondo\ css\ garden\ \ 01\ Artboard\ 1.jpg);
+    float: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 40%;
+    height: 40%;
+}
+.benefits h3{
+    text-align: left;
+    width: 80px;
+    font-size: 20px;
+    color: #87D422;
+    border-bottom: 4px solid  #87D422;
+    padding: .4em 1em;
+    display: inline-block;
+}
+.benefits p{
+    margin-right: 400px; 
+    text-align: left;
+    padding-left: 20px;
+}
+.requirements{
+    text-align: left;
+background-color: #E9F0FA;
+padding: 8px;
+width: 103%;
+}
+.requirements h3{
+    border-bottom: 3px solid black;
+    display: inline-block;
+    margin-left: 200px;
+    padding: 10px;
+width: 12%;
+}
+.sidebar .wrapper{
+    box-sizing: border-box;
+    background-color: #D92E70;
+width: 104%;
+display: flex;
+flex-wrap: wrap;
+text-transform: capitalize;
+color: ;
+}
+.design-selection{
+    max-width: 600px;
+    margin-left: 40px;
+   
+}
+.select{
+    color: white;
+    margin-left: 30px;
+}
+.archives{
+    color: white;
+    margin-left: 40px;
+}
+.resources{
+    color: white;
+    margin-left: 60px;
+}
